@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Patua One
+- Font Author: Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com), with Reserved Font Names "Patua" and "Patua One"
+- Font Source: http://fonts.gstatic.com/s/patuaone/v20/ZXuke1cDvLCKLDcimxBI5PNvNA9LuA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
